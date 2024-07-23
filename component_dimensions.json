@@ -70,5 +70,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "sidebar_1721710185.js": {
+        "id": "sidebar-25695e5e-89b6-fda8-b2ce-020f6f89b5d5",
+        "name": "sidebar",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "20",
+        "y": "100",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
